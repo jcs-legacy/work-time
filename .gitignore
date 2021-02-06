@@ -1,0 +1,9 @@
+# ignore these directories.
+/.git
+/recipes
+/test
+work-time-pkg.el
+work-time-autoloads.el
+
+# ignore generated files.
+*.elc
