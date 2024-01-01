@@ -1,6 +1,6 @@
 ;;; work-time.el --- How long have you been working?  -*- lexical-binding: t; -*-
 
-;; Copyright (C) 2021  Shen, Jen-Chieh
+;; Copyright (C) 2021-2024  Shen, Jen-Chieh
 ;; Created date 2021-02-07 00:46:00
 
 ;; Author: Shen, Jen-Chieh <jcs090218@gmail.com>
